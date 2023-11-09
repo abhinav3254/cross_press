@@ -1,4 +1,4 @@
-import 'package:bench_press/views/homeview.dart';
+import 'package:bench_press/views/calculator/homeview.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
