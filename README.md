@@ -1,6 +1,6 @@
 # bench_press
 
-A new Flutter project.
+A new Flutter project named as Bench Press.
 
 ## Getting Started
 
